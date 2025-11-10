@@ -1,2 +1,3 @@
-# 2025-website
-Website for WinHacks 2025
+# 2026-website
+
+Website for WinHacks 2026
